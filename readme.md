@@ -2,8 +2,10 @@
 
 
 ######## Forked to a Python script specifically for identifying the Mac Manufacture Date.
+
 ######## Please refer to Pudquick for any reference from here on out. I do nothing but disable test output
-########
+
+########  pudquick/pyMacWarranty
 
 pyMacWarranty is a single python file script for checking warranty status on one or more Mac serial numbers, passed as arguments to the script. If no serial number is passed, it will poll the system it's running on for its own serial number.
 
